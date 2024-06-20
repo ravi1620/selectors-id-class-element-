@@ -1,0 +1,30 @@
+img{
+    width: 300px;
+    background-color: aqua;
+    margin: 8px;
+    border: 10px solid palevioletred;
+    border-radius: 200px;
+
+}
+.kkr{
+    background-color:purple;
+}
+.csk{
+    background-color: yellow;
+}
+.dc{
+    background-color: red;
+}
+#warner{
+    background-color: seagreen;
+    border: 10px dashed skyblue;
+    box-shadow: 10px 10px 10px grey;
+
+}
+body{
+    background-color: blanchedalmond;
+}
+p{
+    color: aqua;
+    background-color:palevioletred;
+}
